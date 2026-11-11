@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /reproductor.html
+Disallow: /embed/
+
+Sitemap: https://futbollibrehd.lat/sitemap.xml
